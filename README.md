@@ -13,12 +13,13 @@
 Ecoleta is a project that improve the recycling by connecting people to companies that collect waste, showing points on the map of nearby collection sites. All of this thanks to [Rocketseat](https://rocketseat.com.br/) :rocket:.
 
 ## :rocket: Technologies
-  - Node.js
-  - React
-  - React Native
-  - Expo
-  - Knex
-  - MySQL
+  - [NodeJs](https://nodejs.org/en/)
+  - [React](https://pt-br.reactjs.org/)
+  - [React Native](https://reactnative.dev/)
+  - [Expo](https://expo.io/)
+  - [Knex](http://knexjs.org/)
+  - [MySQL](https://www.mysql.com/)
+  - [Leaflet](https://leafletjs.com/)
 
 ## :information_source: Installation
 
