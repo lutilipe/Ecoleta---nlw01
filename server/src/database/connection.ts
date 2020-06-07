@@ -5,7 +5,7 @@ const connection = knex({
     connection: {
         host : '127.0.0.1',
         user : 'root',
-        password : 'Panda2000@3',
+        password : '*********',
         database : 'nlw'
     },
 })
