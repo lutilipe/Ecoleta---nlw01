@@ -1,7 +1,7 @@
 # Ecoleta
 > Developed during Next Level Week
 
-Ecoleta is a project that improve the recycling by connecting people to companies that collect waste.
+Ecoleta is a project that improve the recycling by connecting people to companies that collect waste, showing points on the map of nearby collection sites. All of this thanks to [Rocketseat](https://rocketseat.com.br/).
 
 ## Technologies
   - Node.js
