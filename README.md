@@ -1,7 +1,7 @@
 <a href='https://github.com/lutilipe/Ecoleta---nlw01'>
   <p align="center" style="border-radius:6px">
     <kbd>
-    <img width="700" height="auto" src='https://github.com/lutilipe/Ecoleta---nlw01/blob/master/recycling.jpg'>
+    <img width="680" height="auto" src='https://github.com/lutilipe/Ecoleta---nlw01/blob/master/capa.png'>
     </kbd>
   </p>
 </a>
