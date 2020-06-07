@@ -1,29 +1,44 @@
+<a href='https://github.com/lutilipe/Ecoleta---nlw01'>
+  <p align="center" style="border-radius:6px">
+    <kbd>
+    <img width="700" height="auto" src='https://github.com/lutilipe/Ecoleta---nlw01/blob/master/recycling.jpg'>
+    </kbd>
+  </p>
+</a>
+
+
 # Ecoleta
-> Developed during Next Level Week
+> Developed during Next Level Week #01.
 
-Ecoleta is a project that improve the recycling by connecting people to companies that collect waste, showing points on the map of nearby collection sites. All of this thanks to [Rocketseat](https://rocketseat.com.br/).
+Ecoleta is a project that improve the recycling by connecting people to companies that collect waste, showing points on the map of nearby collection sites. All of this thanks to [Rocketseat](https://rocketseat.com.br/) :rocket:.
 
-## Technologies
+## :rocket: Technologies
   - Node.js
   - React
   - React Native
   - Expo
   - Knex
   - MySQL
-  
-## Installation
 
-You'll need installed on your computer the package manager 
+## :information_source: Installation
+
+You'll need to have installed on your computer before starting the project:
 [yarn](https://yarnpkg.com/getting-started), 
-[git](https://git-scm.com/) and
 [NodeJs](https://nodejs.org/en/).
 
 ```bash
 # Clone the repository
 $ git clone https://github.com/lutilipe/Ecoleta---nlw01.git
 ```
+ 
+### Configuring the DataBase and Server
+```bash
+$ cd server/knexfile.ts
+$ cd server/src/database/connection.ts
+```
+ Change the password '******' in those two files to be your database password .
 
-### API
+### :computer: API
 ```bash
 # Go to server directory
 $ cd server
@@ -38,7 +53,7 @@ $ yarn knex:seed
 # Run the server
 $ yarn dev
 ```
-### Web
+### :computer: Web 
  ```bash
 # Go to web directory
 $ cd web
@@ -50,7 +65,7 @@ $ yarn install
 $ yarn start
 ```
 
-### Mobile
+### :iphone: Mobile 
 For this part, it's recommend to install Expo on your cellphone and use it. But you can also use a Android/IOS simulator.
  ```bash
 # Go to mobile directory
@@ -63,5 +78,5 @@ $ yarn install
 $ yarn start
 ```
 
-## License
-To see the license, check out [MIT](https://choosealicense.com/licenses/mit/)!
+## :pencil: License
+To view the license, check out [MIT](https://choosealicense.com/licenses/mit/)!
