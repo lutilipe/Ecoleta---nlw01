@@ -12,6 +12,18 @@
 
 Ecoleta is a project that improve the recycling by connecting people to companies that collect waste, showing points on the map of nearby collection sites. All of this thanks to [Rocketseat](https://rocketseat.com.br/) :rocket:.
 
+## :iphone: Mobile Images
+  
+  <p align="center" style="border-radius:6px">
+    <kbd>
+    <img width="300" height="auto" src='https://github.com/lutilipe/Ecoleta---nlw01/blob/master/Home.png'>
+    </kbd>
+  <kbd>
+    <img width="300" height="auto" src='https://github.com/lutilipe/Ecoleta---nlw01/blob/master/Detail.svg'>
+    </kbd>
+  </p>
+  
+
 ## :rocket: Technologies
   - [NodeJs](https://nodejs.org/en/)
   - [React](https://pt-br.reactjs.org/)
